@@ -370,7 +370,7 @@ header{
     visibility: hidden;
     padding: 2rem;
     text-shadow: 0.3rem 0.2rem 0.3rem rgba(0, 0, 0, .6);
-    transition: all .3s;
+    transition: all 0.3s;
 }
 
 .card-info h2{
@@ -567,7 +567,6 @@ padding: 1rem 3rem 3rem 3rem;
 .sessao-orcamento label{
     font-family: var(--font-secundary);
     font-size: 1.5rem;
-    font-weight: bold;
 }
 
 .sessao-orcamento input[type="number"]{
